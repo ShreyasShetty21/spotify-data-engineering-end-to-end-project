@@ -1,6 +1,6 @@
 # spotify-data-engineering-end-to-end-project | AWS 
 ## Introduction
-This project demonstrates a complete data engineering pipeline built on AWS to process and analyze Spotify music streaming data. The pipeline automates data ingestion, transformation, cataloging, and querying to derive meaningful insights about music trends, artist popularity, and user listening patterns.
+This project demonstrates a complete data engineering pipeline built on AWS to process and analyze Spotify music data. The pipeline automates data ingestion, transformation, cataloging, and querying to derive meaningful insights about music trends, artist popularity, and user listening patterns.
 
 ## Architecture
 ![Project Architecture](Architecture_diagram.png)
